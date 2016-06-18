@@ -21,6 +21,7 @@ Installation is easy, just a few steps.
   2. Extract the downloaded .zip
   3. Move/upload the directory 'elegantish' to your Jirafeau 'media' directory
   4. Edit `config.local.php` and change the `$cfg['style']` variable to `elegantish`
+
 **Example:** *lib/config.local.php*
 ``` 
 $cfg['style'] = 'elegantish';
@@ -37,6 +38,7 @@ Dillinger uses a number of open source projects to work properly:
 * [Dillinger.io] - Super awesome markdown editor.
 * [Kickball/Awesome-Selfhosted] - Awesome list of selfhosted apps & how I found Jirafeau.
 * [licence] - Licence (GNU AGPLv3).
+
 ---
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
