@@ -442,7 +442,7 @@ textarea[readonly="readonly"] + p + p a:focus {
   font-family: 'Lobster', cursive;
   background: none;
   padding: 0;
-  color: #000;
+  color: #157EFB;
   font-weight: bold;
   border-bottom: 0;
 }
